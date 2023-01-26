@@ -1,0 +1,58 @@
+@media screen and (min-width:800px){
+    body{
+        background-color: aqua;
+    }
+}
+.introduction-GPT ul{
+    margin: 0 auto;
+    list-style-type: none;
+    display: flex;
+}
+.introduction-GPT li{
+    padding: 0 10px;
+}
+.introduction-GPT{
+    margin:0;
+    padding: 0 29%;
+    opacity: 0.8;
+    width:100%;
+}
+.logo-Gpt{
+    width:99%;
+}
+.logo-Gpt h1{
+    font-size: 25px;
+}
+.navbar{
+    width:95%;
+}
+.nav-bar ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0 20%;
+
+}
+.nav-bar li{
+    padding: 0 30px;
+    font-size: 14px;
+}
+.title h1{
+    font-size: 50px;
+}
+.button-Try{
+    padding: 20px 0;
+}
+.button-Try button{
+    background-color:#FF8BFF ;
+    color:#193718;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.changeTheme{
+    width:40%;
+    padding: 30px 50px;
+}
