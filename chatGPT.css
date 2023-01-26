@@ -9,11 +9,10 @@
     display: flex;
 }
 .introduction-GPT li{
-    padding: 0 10px;
+    padding: 0 20px;
 }
 .introduction-GPT{
-    margin:0;
-    padding: 0 29%;
+    margin:0 29%;
     opacity: 0.8;
     width:100%;
 }
